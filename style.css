@@ -3,13 +3,14 @@
 }
 
 body{
-    background: url();
+    background: rgb(255,255,255);
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
     overflow: hidden;
     margin: 0;
+    background-image: url(img/seamless-numbers-pattern-on-dark-background-with-modern-design-free-vector.jpg);
 }
 
 h2{
